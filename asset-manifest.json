@@ -1,11 +1,11 @@
 {
-  "main.js": "/react-lunch/static/js/main.61e0a00b.chunk.js",
-  "main.js.map": "/react-lunch/static/js/main.61e0a00b.chunk.js.map",
+  "main.js": "/react-lunch/static/js/main.63225c9d.chunk.js",
+  "main.js.map": "/react-lunch/static/js/main.63225c9d.chunk.js.map",
   "runtime~main.js": "/react-lunch/static/js/runtime~main.016e3eae.js",
   "runtime~main.js.map": "/react-lunch/static/js/runtime~main.016e3eae.js.map",
-  "static/js/2.99021d9f.chunk.js": "/react-lunch/static/js/2.99021d9f.chunk.js",
-  "static/js/2.99021d9f.chunk.js.map": "/react-lunch/static/js/2.99021d9f.chunk.js.map",
+  "static/js/2.aa848709.chunk.js": "/react-lunch/static/js/2.aa848709.chunk.js",
+  "static/js/2.aa848709.chunk.js.map": "/react-lunch/static/js/2.aa848709.chunk.js.map",
   "index.html": "/react-lunch/index.html",
-  "precache-manifest.60ece8a72280f19bea8a60efa96d591d.js": "/react-lunch/precache-manifest.60ece8a72280f19bea8a60efa96d591d.js",
+  "precache-manifest.7b2a7c81a59c6452973caacf54cc4a5e.js": "/react-lunch/precache-manifest.7b2a7c81a59c6452973caacf54cc4a5e.js",
   "service-worker.js": "/react-lunch/service-worker.js"
 }
